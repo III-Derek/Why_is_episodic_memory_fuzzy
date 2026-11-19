@@ -1,7 +1,7 @@
 # Why_is_episodic_memory_fuzzy
 A mathematical explanation for why the temporal coding in episodic memory is fuzzy with experimental verification across brain regions and animal species.
 
-![Project Screenshot](fuzzy_example.png)
+![Examples of fuzziness about event timing in our daily lives](fuzzy_example.png)
 
 
 
