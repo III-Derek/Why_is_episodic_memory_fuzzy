@@ -8,4 +8,7 @@ This github repository contains the code and data for the paper "Why is episodic
 - [A temporal record of the past with a spectrum of time constants in the monkey entorhinal cortex](https://www.pnas.org/doi/10.1073/pnas.1917197117#fig02)
 - [Integrating time from experience in the lateral entorhinal cortex](https://www.nature.com/articles/s41586-018-0459-6#ref-CR31)
 
-We only put the dataset here that are available to download from the internet and we appreciate the dataset shared from the corresponding author in the paper [Integrating time from experience in the lateral entorhinal cortex](https://www.nature.com/articles/s41586-018-0459-6#ref-CR31) (Albert Tsao
+We only put the dataset here that are available to download from the internet and we appreciate the dataset shared from the corresponding author in the paper [Integrating time from experience in the lateral entorhinal cortex](https://www.nature.com/articles/s41586-018-0459-6#ref-CR31) (Albert Tsao & Edvard I. Moser). However, the dataset availability statement in that paper is to ask the corresponding author to provide the data. Therefore, we don't put the data her. 
+
+The link for Cao data: 
+
