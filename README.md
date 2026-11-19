@@ -14,3 +14,7 @@ The link for Cao data (we download the past cells): [link](https://osf.io/rkxps/
 
 The link for Bright data (we use the temporal context cell they found in their paper using the first column of finalparameters.csv): [link](https://github.com/tcnlab/TemporalContextCells-ECmonkey)
 
+The code for downloading this github repository is:
+```
+git clone https://github.com/III-Derek/Why_is_episodic_memory_fuzzy
+```
