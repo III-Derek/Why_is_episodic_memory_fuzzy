@@ -12,5 +12,5 @@ We only put the dataset here that are available to download from the internet an
 
 The link for Cao data (we download the past cells): [link](https://osf.io/rkxps/overview)
 
-The link for Bright data (we use the temporal context cell they found in their paper using the first column of finalparameters.csv): [link](
+The link for Bright data (we use the temporal context cell they found in their paper using the first column of finalparameters.csv): [link](https://github.com/tcnlab/TemporalContextCells-ECmonkey)
 
