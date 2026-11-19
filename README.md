@@ -10,5 +10,7 @@ This github repository contains the code and data for the paper "Why is episodic
 
 We only put the dataset here that are available to download from the internet and we appreciate the dataset shared from the corresponding author in the paper [Integrating time from experience in the lateral entorhinal cortex](https://www.nature.com/articles/s41586-018-0459-6#ref-CR31) (Albert Tsao & Edvard I. Moser). However, the dataset availability statement in that paper is to ask the corresponding author to provide the data. Therefore, we don't put the data her. 
 
-The link for Cao data: 
+The link for Cao data (we download the past cells): [link](https://osf.io/rkxps/overview)
+
+The link for Bright data (we use the temporal context cell they found in their paper using the first column of finalparameters.csv): [link](
 
