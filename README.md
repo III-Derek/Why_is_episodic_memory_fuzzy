@@ -1,6 +1,12 @@
 # Why_is_episodic_memory_fuzzy
 A mathematical explanation for why the temporal coding in episodic memory is fuzzy with experimental verification
 
+*** Abstract
+
+The temporal representation of episodic memory is supported by ramping cell in the entorhinal cortex and time cell population in the hippocampus. While we know that we have a fuzzy memory about the ”when” of the events happened in the past, a math- ematical explanation for why the episodic memory is fuzzy is lacking. Here, we view the problem of episodic memory retrieval as an inverse problem with an biologically plausible encoder that encodes the stimulus history and do not specify the decoder. Through the language of spectral operator theory, we find that the exact inverse con- structed from the intermediate representation produced by the encoder is unbounded. We attribute the fuzziness in the temporal representation of past experience to the decaying singular values of the encoder. Further numerical analysis shows that this inverse problem is an severely ill-posed and offer an approach of reconstructing past stimulus history through predictive coding.
+
+
+
 This github repository contains the code and data for the paper "Why is episodic memory fuzzy? - A mathematical explanation". While the experimental data are obtained from the following four papers:
 - [Ramping cells in the rodent medial prefrontal cortex encode time to past and future events via real Laplace transform
 ](https://www.pnas.org/doi/10.1073/pnas.2404169121)
